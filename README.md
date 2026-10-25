@@ -31,3 +31,4 @@ I plan to use KiCad for schematic and PCB and AutoCAD for enclosure. Enclosure d
 Project is still, in planning and component‑checking stage. No working prototype yet.
 
 
+made by sx1
