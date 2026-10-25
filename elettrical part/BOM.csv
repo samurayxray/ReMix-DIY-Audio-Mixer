@@ -1,0 +1,28 @@
+﻿riferimenti,quantita,codice,produttore,descrizione,ambito,fonte,stato
+M1,1,TEENSY41_NE,PJRC / SparkFun,Teensy 4.1 senza Ethernet; firmware teensy41,modulo,https://www.pjrc.com/store/teensy41.html,selezionato per prototipo
+M3 M4,2,TEENSY4_AUDIO,PJRC / SparkFun,"Audio Adaptor per Teensy 4.x, Rev D o D2",modulo,https://www.pjrc.com/store/teensy3_audio.html,selezionato per prototipo
+M2,1,2717,Adafruit,Modulo TCA9548A; alimentare 3.3 V,modulo,https://www.adafruit.com/product/2717,selezionato per prototipo
+JX1..JX7,7,NYS230,REAN,"Jack 6.35 mm TRS, faston 0.205, dadi e rondelle inclusi",pannello,https://www.rean-connectors.com/en/product/nys230-1,selezionato per prototipo
+SW1..SW4,4,PV1F240SS,E-Switch,"SPST NO momentaneo, foro 19 mm; test contatto a bassa corrente necessario",pannello,https://configured-product-images.s3.amazonaws.com/2D/specs/PV1F240SS.pdf,selezionato per prototipo
+R1..R4,4,MRS25000C1001FCT00,Vishay,"1k 1%, assiale passo 7.62 mm",PCB,https://www.vishay.com/docs/28724/mrs16m25.pdf,selezionato per prototipo
+R5..R8,4,MRS25000C1004FCT00,Vishay,"1M 1%, assiale passo 7.62 mm",PCB,https://www.vishay.com/docs/28724/mrs16m25.pdf,selezionato per prototipo
+R9..R16,8,MRS25000C1002FCT00,Vishay,"10k 1%, assiale passo 7.62 mm",PCB,https://www.vishay.com/docs/28724/mrs16m25.pdf,selezionato per prototipo
+C1..C4,4,K104K15X7RF5TL2,Vishay,100nF X7R 50V radiale passo 2.5 mm,PCB,https://www.vishay.com/docs/45171/kseries.pdf,selezionato per prototipo
+J1 J6..J17,13,TSW-102-07-G-S,Samtec,"Header 1x2 2.54 mm, pin quadrato 0.635 mm",PCB,https://www.samtec.com/products/tsw-102-07-g-s?v=2,selezionato per prototipo
+J2..J5,4,TSW-103-07-G-S,Samtec,Header 1x3 2.54 mm,PCB,https://www.samtec.com/products/tsw-103-07-g-s,selezionato per prototipo
+Cablaggi 2 vie,13,M20-1060200,Harwin,Housing femmina 2 vie per header scheda passiva,cablaggio,https://www.harwin.com/products/M20-1060200,selezionato per prototipo
+Cablaggi 3 vie,4,M20-1060300,Harwin,Housing femmina 3 vie per header scheda passiva,cablaggio,https://www.harwin.com/products/M20-1060300,selezionato per prototipo
+Contatti housing,38,M20-1180046,Harwin,Contatti crimp sciolti; verificare utensile e sezione cavo,cablaggio,https://www.harwin.com/products/M20-1180046,selezionato per prototipo
+LED1..LED6,6,TLHR4400,Vishay,LED rosso 3 mm; distinguere AUDIO/APP con serigrafia,pannello,https://www.vishay.com/docs/83006/tlhg440.pdf,selezionato per prototipo
+Resistenze LED esterne,6,MRS25000C1001FCT00,Vishay,"1k per LED; esterne al PCB passivo, isolate con guaina",cablaggio,https://www.vishay.com/docs/28724/mrs16m25.pdf,selezionato per prototipo
+Ponticelli fader,16,ISO 4762 M2x8,standard,Viti per otto ponticelli; prefilettare piloti 1.6 mm,meccanica,,da provare nella stampa
+PCB e vassoio,8,ISO 4762 M2.5x6,standard,Viti; prefilettare piloti 2.05 mm,meccanica,,da provare nella stampa
+Fermacavo,2,ISO 4762 M2.5x8,standard,Viti fermacavo; prefilettare piloti 2.05 mm,meccanica,,da provare nella stampa
+Coperchio,4,ISO 4762 M3x10,standard,Viti; prefilettare piloti 2.5 mm,meccanica,,da provare nella stampa
+F1..F4,4,RECUPERO-AMPRO-TBD,AMPRO recupero,Sei terminali; nessun MPN identificato,recupero,,BLOCCATO: identificazione fuori circuito
+PCB1,1,ReMix-IO-v0.2,progetto ReMix,"PCB 65x85, 2 strati, 1.6 mm; NON ordinare ancora",PCB,,ERC/DRC passati; prototipo da validare
+USB,1,SPEC-USB-A-MICRO-B-DATA,da selezionare,Cavo dati USB-A Micro-B; misurare testa e diametro per fermacavo,cablaggio,,MPN da scegliere sul cavo reale
+Cuffie interconnessione,1,SPEC-TRS-3.5-TO-TRS-6.35,da selezionare,Tre conduttori dal jack cuffie B alla presa PHONES; nessun adattatore mono,cablaggio,,MPN e ingombro da scegliere
+Cavi sorgenti stereo,2,SPEC-TRS-3.5-TO-2TS-6.35,da selezionare,"Uno PC e uno AUX, secondo uscite reali sorgenti",esterno,,accessori secondo sorgenti
+Cavi casse,2,SPEC-TS-6.35-LINE,da selezionare,Un cavo per canale; connettore lato casse da verificare,esterno,,dipende dalle casse
+Consumabili,1,KIT-CABLAGGIO-PROTOTIPO,da selezionare,"Coppie schermate linea, cavetti moduli corti, faston 5.2 isolati, guaina, fascette, distanziatori isolanti, piedini e spessori morbidi",cablaggio,,quantita e codici da chiudere con disposizione fisica

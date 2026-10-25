@@ -1,0 +1,1 @@
+(fp_lib_table (version 7) (lib (name "ReMix") (type "KiCad") (uri "${KIPRJMOD}/ReMix.pretty") (options "") (descr "ReMix generic through-hole interface")))

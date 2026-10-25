@@ -1,0 +1,1 @@
+(sym_lib_table (version 7) (lib (name "ReMix") (type "KiCad") (uri "${KIPRJMOD}/ReMix.kicad_sym") (options "") (descr "ReMix passive interface symbols")) (lib (name "ReMixSystem") (type "KiCad") (uri "${KIPRJMOD}/ReMixSystem.kicad_sym") (options "") (descr "Commercial module signal contracts")))
