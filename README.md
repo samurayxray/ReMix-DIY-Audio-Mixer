@@ -30,6 +30,4 @@ I plan to use KiCad for schematic and PCB and AutoCAD for enclosure. Enclosure d
 
 Project is still, in planning and component‑checking stage. No working prototype yet.
 
-## AI assistance
 
-I have used AI to discuss component identification and possible design approaches. This README draft was also prepared with AI assistance.
