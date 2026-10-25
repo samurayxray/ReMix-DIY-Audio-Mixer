@@ -31,4 +31,8 @@ I plan to use KiCad for schematic and PCB and AutoCAD for enclosure. Enclosure d
 Project is still, in planning and component‑checking stage. No working prototype yet.
 
 
+<img width="1376" height="1064" alt="PCB-passivo-KiCad" src="https://github.com/user-attachments/assets/b0940e88-c7c9-4a35-a9db-3aad90298a33" />
+<img width="2100" height="1800" alt="Pannelli-esportazione-DXF" src="https://github.com/user-attachments/assets/ffa0ed46-6d10-4337-b0fd-fc90fdea336b" />
+
+
 made by sx1
